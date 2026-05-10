@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+ body {
+            /* background-color:blue; */
+        }
+
+        .container {
+            padding: 20px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .box {
+            height: 20px;
+            width: 20px;
+            border: 1px white;
+            background-color: #E6E6FA;
+        }
+
+        .active {
+            background-color: #6F4E37;
+        }
