@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let boxes = document.getElementsByClassName("box")
+let boxes = document.getElementsByClassName("square")
 
         for (let box of boxes) {
             box.addEventListener("mouseover", (e) => {
